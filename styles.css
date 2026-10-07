@@ -1,3 +1,4 @@
 body { font-family: Arial, sans-serif; margin: 40px; background: #f7f7f2; } 
 h1 { color: #2e7d32; } 
 .banner { background: #ff9800; color: #1a1a1a; padding: 12px; font-weight: bold; }
+.badge { background: #9e9e9e; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-size: 12px; } 
