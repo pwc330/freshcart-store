@@ -1,2 +1,3 @@
 body { font-family: Arial, sans-serif; margin: 40px; background: #f7f7f2; } 
 h1 { color: #2e7d32; } 
+.banner { background: #ff9800; color: #1a1a1a; padding: 12px; font-weight: bold; }
